@@ -11,7 +11,7 @@
 
 ## 🖥️ Live Preview
 
-![Election Process Assistant — AI-powered multilingual election guidance](public/demo-screenshot.png)
+![Election Process Assistant — AI-powered multilingual election guidance](public/demo-screenshot.png.jpeg)
 
 > **[Try it live →](https://election-process-xi.vercel.app)**
 
